@@ -17,7 +17,7 @@ _main<api-1>{
     (marginal notes)
     <string name>(marginal notes)<string value>
     <string list name>[ <string value> <string value> ]
-    <string list name>(marginal notes)[ <string value> <string value> ]
+    <string list name>(marginal notes)[(marginal notes)<string value> <string value> ]
     <class name>{
         <string name><string value>
         <string list name>[ <string value> <string value> ]
